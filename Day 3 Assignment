@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Day 3 Assignment</title>
+    <link rel="stylesheet" href="Day3Assig.css">
+</head>
+<body>
+
+    <div class="one">
+
+        <div class="one_child"><img src="world.jpg" width="100"  height="100" alt="error"></div> 
+        <div class="one_child"><img src="world.jpg" width="100"  height="100" alt="error"></div>
+        <div class="one_child"><img src="world.jpg" width="100"  height="100" alt="error"></div>
+  
+
+    </div>   
+    <br> <br>
+    <div class="two">
+
+        <div class="two_child"></div>
+        <div class="two_child"></div>
+        <div class="two_child"></div>
+  
+
+    </div> 
+    
+</body>
+</html>
+
+
